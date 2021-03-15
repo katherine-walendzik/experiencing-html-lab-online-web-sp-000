@@ -1,4 +1,4 @@
 "Metropolitan Museum of Art"
 "Museum of Modern Art"
 "Guggenheim Museum"
-"Whitney Museum of Modern Art"
+"Whitney Museum of American Art"
